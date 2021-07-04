@@ -38,7 +38,8 @@
 | 14920    | 3     |
 
 * Index positions actually help us to directly access a value from the list. list_name[index] can be used to directly access the list element at the mentioned index position.
-* If we want to access an element directly, we can also use it to directly modify an element in the list. element[1] = 23413
+* If we want to access an element directly, we can also use it to directly modify an element in the list. element[1] = 77149
+*
 
 ## Basic Operations of List
 
