@@ -61,9 +61,7 @@ Matplotlib comes with a wide variety of plots. Plots helps to understand trends,
 
         plt.show() 
 
-
-Image link:- https://drive.google.com/file/d/1w4XXVPX95BmMQAG06mXrZQI3YV-3DSjS/view?usp=sharing
-
+     <a href="https://imgbb.com/"><img src="https://i.ibb.co/RSLHkvM/Whats-App-Image-2021-07-13-at-12-12-17.jpg" alt="Whats-App-Image-2021-07-13-at-12-12-17" border="0"></a>
 
  
 
@@ -116,10 +114,7 @@ Image link:- https://drive.google.com/file/d/1w4XXVPX95BmMQAG06mXrZQI3YV-3DSjS/v
         plt.show() 
 
  
-
- 
-Image link:- https://drive.google.com/file/d/15ouKK2bhsS4LlCnk04sEYpbUtsXgxHsa/view?usp=sharing
- 
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/QC3L75x/Whats-App-Image-2021-07-13-at-12-12-31.jpg" alt="Whats-App-Image-2021-07-13-at-12-12-31" border="0"></a>
 
  
 
@@ -189,7 +184,7 @@ Image link:- https://drive.google.com/file/d/15ouKK2bhsS4LlCnk04sEYpbUtsXgxHsa/v
         plt.show() 
 
 
-Image link:- https://drive.google.com/file/d/19L255ccbyQWxAiA4sbuovsaurKsEd5B6/view?usp=sharing
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/nbGpVSh/Whats-App-Image-2021-07-13-at-12-12-46.jpg" alt="Whats-App-Image-2021-07-13-at-12-12-46" border="0"></a>
  
 
 4)  Scatter-plot:- 
@@ -255,8 +250,7 @@ Image link:- https://drive.google.com/file/d/19L255ccbyQWxAiA4sbuovsaurKsEd5B6/v
 
 
 
-
-Image link:- https://drive.google.com/file/d/1TR8PONbENXIW6ytW8qubQ-ifR_xlH-_S/view?usp=sharing
+       <a href="https://imgbb.com/"><img src="https://i.ibb.co/p0K1YDT/Whats-App-Image-2021-07-13-at-12-13-07.jpg" alt="Whats-App-Image-2021-07-13-at-12-13-07" border="0"></a>
 
 
 5) Pie- Chart:- 
@@ -300,7 +294,7 @@ Image link:- https://drive.google.com/file/d/1TR8PONbENXIW6ytW8qubQ-ifR_xlH-_S/v
         
         
         
-Image link:- https://drive.google.com/file/d/1fNHSswkl-R-iZILSTJpzwSJ78Lr_O5ml/view?usp=sharing
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/G9kMnQ7/Whats-App-Image-2021-07-13-at-12-13-18.jpg" alt="Whats-App-Image-2021-07-13-at-12-13-18" border="0"></a>
 
  
 
